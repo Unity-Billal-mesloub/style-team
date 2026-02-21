@@ -5,9 +5,9 @@ determining the default Rust style, including styling for new language
 constructs, as well as evolving the Rust style over time.
 
 The [Rust style
-guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src)
+guide](https://github.com/Unity-Billal-mesloub/rust/tree/HEAD/src/doc/style-guide/src)
 lives in the `rust-lang/rust` repository. In particular, see the [guiding
-principles](https://github.com/rust-lang/rust/blob/HEAD/src/doc/style-guide/src/principles.md)
+principles](https://github.com/Unity-Billal-mesloub/rust/blob/HEAD/src/doc/style-guide/src/principles.md)
 of the Rust style.
 
 This repository includes:
@@ -20,14 +20,6 @@ This repository includes:
 All interactions on this repository (whether on issues, PRs, or elsewhere), as
 in other parts of the Rust project, are governed by the [Rust Code of
 Conduct](https://www.rust-lang.org/policies/code-of-conduct).
-
-## License
-[License]: #license
-
-This repository is licensed under either of:
-
-* Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or https://www.apache.org/licenses/LICENSE-2.0)
-* MIT license ([LICENSE-MIT](LICENSE-MIT) or https://opensource.org/licenses/MIT)
 
 at your option.
 
